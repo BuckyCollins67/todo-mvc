@@ -1,4 +1,6 @@
 // As a reminder, you'll need to "npm express" in order for this to work.  To get the server going, it's "node server.js"
+// Authentication features being added.
+
 
 const express = require('express')
 const app = express()
