@@ -1,3 +1,5 @@
+// As a reminder, you'll need to "npm express" in order for this to work.  To get the server going, it's "node server.js"
+
 const express = require('express')
 const app = express()
 const connectDB = require('./config/database')
